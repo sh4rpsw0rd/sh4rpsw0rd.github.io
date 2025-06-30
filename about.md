@@ -12,7 +12,7 @@ I started this site to share the joy of discovery, the quirks of solo travel, an
 
 __Why “SharpSword”?__
 
-I prefer to keep my online identity private, unlike these insufferable "influencers", so you’ll see me by my online alias. It’s about the ride, the road, and the stories—not the spotlight.
+Unlike these insufferable "influencers", I prefer to keep my online identity private. Ergo, you’ll see me by my online alias. It’s about the ride, the road, and the stories; not the spotlight.
 
 __What to expect...__
 
