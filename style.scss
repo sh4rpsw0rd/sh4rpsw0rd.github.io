@@ -291,16 +291,27 @@ footer {
 }
 
 .footer-nostr {
-  text-align: center;
-  margin-top: 2em;
-  color: #888;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
+
 .footer-nostr img {
+  width: 64px;      /* Make icon larger, adjust as needed */
+  height: auto;     /* Preserve aspect ratio */
+  margin-bottom: 0.3em; /* Reduce space below icon */
   display: block;
-  margin: 0 auto 0.5em auto; /* center horizontally, add margin below */
-  width: 2.5em; /* increase size as needed */
-  height: auto;
 }
+
+.nostr-username {
+  color: #888;
+  font-style: normal;
+  font-size: 1.1em;
+  margin: 0;        /* Remove extra margin */
+}
+
 
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
