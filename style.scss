@@ -297,15 +297,28 @@ footer {
   gap: 1em;
   margin: 1em 0;
 }
+
 .nostr-icon {
-  width: 64px;  /* or your preferred size */
+  width: 64px;
   height: auto;
   display: block;
 }
+
 .nostr-username {
   color: #888;
   font-style: normal;
   font-size: 1.1em;
+}
+
+/* Mobile: icon above, text below */
+@media (max-width: 768px) {
+  .footer-nostr {
+    flex-direction: column;
+    gap: 0.5em;
+  }
+  .nostr-icon {
+    margin-bottom: 0.5em;
+  }
 }
 
 
