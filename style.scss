@@ -290,6 +290,19 @@ footer {
   text-align: center;
 }
 
+.footer-nostr {
+  text-align: center;
+  margin-top: 2em;
+  color: #888;
+}
+.footer-nostr img {
+  display: block;
+  margin: 0 auto 0.5em auto; /* center horizontally, add margin below */
+  width: 2.5em; /* increase size as needed */
+  height: auto;
+}
+
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
