@@ -12,3 +12,6 @@ Anyway, here she is...
 *Suki the Suzuki, ready for adventure*
 
 Until our first documented ride, stay safe and keep the shiny side up!
+
+Chasing horizons,
+SharpSword
