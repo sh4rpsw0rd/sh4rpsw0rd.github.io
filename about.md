@@ -31,7 +31,7 @@ __What to expect...__
 
 __Thanks for stopping by!__
 
-Feel free to leave a comment (via Nostr), share your own stories, or just enjoy the ride.
+Feel free to subscribe via RSS, interact & share your own stories on Nostr, or just enjoy the ride.
 
 Chasing horizons,
 
