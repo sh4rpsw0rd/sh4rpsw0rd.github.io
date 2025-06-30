@@ -11,6 +11,7 @@ I’m SharpSword, a rider, explorer, and the storyteller behind this blog. Here,
 I started this site to share the joy of discovery, the quirks of solo travel, and the simple pleasures of life on two wheels. Whether you’re a fellow motorcyclist, a lover of the English landscape and folklore, or just curious about the adventures of Suki and me, I hope you’ll find something here that inspires you to chase your own horizons.
 
 __Why “SharpSword”?__
+
 I prefer to keep my online identity private, unlike these insufferable "influencers", so you’ll see me by my online alias. It’s about the ride, the road, and the stories—not the spotlight.
 
 __What to expect...__
