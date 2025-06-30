@@ -12,7 +12,9 @@ description: Musings of a Motorcyclist
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://sh4rpsw0rd.github.io/avatar.png
 
-author: SharpSword
+author:
+  name: SharpSword
+
 
 #
 # Flags below are optional
