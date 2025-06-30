@@ -292,25 +292,22 @@ footer {
 
 .footer-nostr {
   display: flex;
-  flex-direction: column;
   align-items: center;
-  margin-top: 1em;
-  margin-bottom: 1em;
+  justify-content: center;
+  gap: 1em;
+  margin: 1em 0;
 }
-
-.footer-nostr img {
-  width: 64px;      /* Make icon larger, adjust as needed */
-  height: auto;     /* Preserve aspect ratio */
-  margin-bottom: 0.3em; /* Reduce space below icon */
+.nostr-icon {
+  width: 64px;  /* or your preferred size */
+  height: auto;
   display: block;
 }
-
 .nostr-username {
   color: #888;
   font-style: normal;
   font-size: 1.1em;
-  margin: 0;        /* Remove extra margin */
 }
+
 
 
 
