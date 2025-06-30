@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chasing Horizons: Introducing Suki, My Two-Wheeled Companion
+title: "Chasing Horizons: Introducing Suki, My Two-Wheeled Companion"
 ---
 Salutations!
 
