@@ -304,22 +304,58 @@ footer {
   display: block;
 }
 
+.rss-icon {
+  width: 32px;
+  height: 32px;
+  display: block;
+  transition: box-shadow 0.2s, filter 0.2s;
+}
+
+/* Only RSS icon is interactive */
+.rss-link:hover .rss-icon,
+.rss-link:focus .rss-icon {
+  filter: brightness(1.2);
+  box-shadow: 0 0 8px 2px orange;
+}
+
+.nostr-link {
+  display: flex;
+  align-items: center;
+}
+
+.rss-link {
+  display: flex;
+  align-items: center;
+}
+
 .nostr-username {
   color: #888;
   font-style: normal;
   font-size: 1.1em;
 }
 
-/* Mobile: icon above, text below */
+/* Mobile: stack vertically, icons above text, larger icons */
 @media (max-width: 768px) {
   .footer-nostr {
     flex-direction: column;
     gap: 0.5em;
+    align-items: center;
   }
   .nostr-icon {
-    margin-bottom: 0.5em;
+    width: 80px;
+    margin-bottom: 0.25em;
+  }
+  .rss-icon {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 0.25em;
+  }
+  .nostr-username {
+    margin-bottom: 0.25em;
+    font-size: 1.2em;
   }
 }
+
 
 
 
