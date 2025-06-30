@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-__Salutiations!__
+__Salutations!__
 
 I’m SharpSword, a rider, explorer, and the storyteller behind this blog. Here, you’ll find tales and photos from my journeys through England’s countryside, all from the saddle of Suki, my trusty 2021 Suzuki V-Strom 1050XT.
 
