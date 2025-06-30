@@ -8,7 +8,7 @@ Whilst I'm planning my next adventure around England's charming countryside, let
 
 Anyway, here she is...
 
-![Suki the Suzuki](images/suki.jpg){:.center-image}
+![Suki the Suzuki](/images/suki.jpg){:.center-image}
 *Suki the Suzuki, ready for adventure*
 
 Until our first documented ride, stay safe and keep the shiny side up!
