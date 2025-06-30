@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coming Soon!
+title: Chasing Horizons: Introducing Suki, My Two-Wheeled Companion
 ---
 Salutations!
 
